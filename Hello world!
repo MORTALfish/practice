@@ -1,0 +1,10 @@
+Hello world!
+This is a file
+It has many lines
+
+Some have weird characters %{testing}
+  Some are indented
+   Some go in even further
+Others go back the the start
+
+This is a very long line. It's so long that it might even wrap in some screens, but it's only 1 line. Notice it says line 10 in sublime text, even if it goes to the next line! Isn't that something else! Wow it's so coolio!
